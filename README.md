@@ -1,10 +1,9 @@
-# alex
-<h2>Project: SPIWUP (Alex)<br><sup>Seizure Pattern Identification, Warning, and Ultimate Prevention</sup></h2>
+<h1>Project: SPIWUP (Alex)<br><sup>Seizure Pattern Identification, Warning, and Ultimate Prevention</sup></h1>
 <br>
-<h3>What is <i>Project: Alex</i>?</h3>
+<h2>What is <i>Project: Alex</i>?</h2>
 <p><i>Project: Alex</i> was spearheaded by Evan Jensen, founder, owner, and lead-developer at Smashstar Media to directly benefit consumers, specifically those with seizure-related disorders, with the ultimate goal of being able to identify disorders, warn of oncoming attacks/episodes, provide as much data as possible to neurologists and contributing third-parties, and ultimately help to prevent the symptoms related to the respective disorders.</p>
 <br>
-<h3>Project Goals</h3>
+<h2>Project Goals</h2>
 <ul>
   <li>Build an app to collect as much biometric/environment data as possible before, during, and after attacks/episodes</li>
   <li>Compile data into meaningful metrics that can benefit neurologists, scientists, and patients</li>
